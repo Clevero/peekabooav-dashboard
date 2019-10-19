@@ -1,0 +1,20 @@
+---
+buzzwords: "data: {\"items\":[{\"label\":\".jpeg\",\"value\":21},{\"label\":\".jpg\",\"value\":19},{\"label\":\".pdf\",\"value\":50},{\"label\":\".doc\",\"value\":29},{\"label\":\".docx\",\"value\":3},{\"label\":\".png\",\"value\":33},{\"label\":\".xls\",\"value\":5},{\"label\":\".xlsx\",\"value\":3}],\"id\":\"buzzwords\",\"updatedAt\":1570522060175}\n\n"
+convergence: "data: {\"points\":[{\"x\":77338,\"y\":20},{\"x\":77339,\"y\":15},{\"x\":77340,\"y\":18},{\"x\":77341,\"y\":37},{\"x\":77342,\"y\":1},{\"x\":77343,\"y\":42},{\"x\":77344,\"y\":20},{\"x\":77345,\"y\":49},{\"x\":77346,\"y\":28},{\"x\":77347,\"y\":43}],\"id\":\"convergence\",\"updatedAt\":1571493323697}\n\n"
+valuation: "data: {\"current\":67,\"last\":75,\"id\":\"valuation\",\"updatedAt\":1571493323697}\n\n"
+karma: "data: {\"current\":\"3k\",\"last\":\"\",\"id\":\"karma\",\"updatedAt\":1570606712620}\n\n"
+synergy: "data: {\"value\":\"2\",\"id\":\"synergy\",\"updatedAt\":1570196272351}\n\n"
+table: "data: {\"hrows\":[{\"cols\":[{\"value\":\"One\"},{\"value\":\"Two\"},{\"value\":\"Three\"},{\"value\":\"Four\"}]}],\"rows\":[{\"cols\":[{\"value\":\"cell11\"},{\"value\":\"asdf\"},{\"value\":\"sdfg\"},{\"value\":\"dfhg\"}]},{\"cols\":[{\"value\":\"cell21\"},{\"value\":\"asdf\"},{\"value\":\"sdfg\"},{\"value\":\"dfhg\"}]},{\"cols\":[{\"value\":\"cell31\"},{\"value\":\"asdf\"},{\"value\":\"sdfg\"},{\"value\":\"dfhg\"}]},{\"cols\":[{\"value\":\"cell41\"},{\"value\":\"asdf\"},{\"value\":\"sdfg\"},{\"value\":\"dfhg\"}]}],\"id\":\"table\",\"updatedAt\":1570017277441}\n\n"
+syngery: "data: {\"value\":\"20\",\"id\":\"syngery\",\"updatedAt\":1570017168562}\n\n"
+my-table: "data: {\"hrows\":[{\"cols\":[{\"value\":\"ID\"},{\"value\":\"Size\"},{\"value\":\"Date\"},{\"value\":\"Sender\"},{\"value\":\"Recipient\"}]}],\"rows\":[{\"cols\":[{\"value\":\"7B59325A9\"},{\"value\":38693},{\"value\":\"Tue
+  Oct 15 11:41:15\"},{\"value\":\"MAILER-DAEMON\"},{\"value\":\"bounceback@go.kofax.com\"}]},{\"cols\":[{\"value\":\"5BBF51585\"},{\"value\":6718},{\"value\":\"Thu
+  Oct 17 21:00:25\"},{\"value\":\"MAILER-DAEMON\"},{\"value\":\"f561636b.EAAAAHFfQw4AAAAFTgQAAAAKKbEAAAAAAAEAAAAAAAqrIQBdqLbJ@bnc3.mailjet.com\"}]}],\"id\":\"my-table\",\"updatedAt\":1571345530880}\n\n"
+running-vms: "data: {\"value\":\"0\",\"id\":\"running-vms\",\"updatedAt\":1571345557189}\n\n"
+runnings-vms: "data: {\"value\":\"6\",\"id\":\"runnings-vms\",\"updatedAt\":1570441576290}\n\n"
+reported-tasks: "data: {\"value\":\"450\",\"id\":\"reported-tasks\",\"updatedAt\":1571345557208}\n\n"
+pending-tasks: "data: {\"value\":\"0\",\"id\":\"pending-tasks\",\"updatedAt\":1571345557230}\n\n"
+running-tasks: "data: {\"value\":\"4\",\"id\":\"running-tasks\",\"updatedAt\":1570451810501}\n\n"
+welcome: "data: {\"text\":\"Hey, Look what I can do! \\n Hello\",\"id\":\"welcome\",\"updatedAt\":1570456753685}\n\n"
+filetype-counts: "data: {\"items\":[{\"label\":\".jpeg\",\"value\":91},{\"label\":\".jpg\",\"value\":80},{\"label\":\".pdf\",\"value\":289},{\"label\":\".doc\",\"value\":250},{\"label\":\".docx\",\"value\":77},{\"label\":\".png\",\"value\":171},{\"label\":\".xls\",\"value\":13},{\"label\":\".xlsx\",\"value\":8},{\"label\":\".exe\",\"value\":0},{\"label\":\".zip\",\"value\":0},{\"label\":\".bat\",\"value\":0}],\"id\":\"filetype-counts\",\"updatedAt\":1571341202417}\n\n"
+known: "data: {\"count\":75904,\"id\":\"known\",\"updatedAt\":1571341193321}\n\n"
+bad: "data: {\"count\":341,\"id\":\"bad\",\"updatedAt\":1571341193338}\n\n"
